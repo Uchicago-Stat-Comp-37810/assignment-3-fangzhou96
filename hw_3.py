@@ -50,11 +50,9 @@ print(not_equal(5,3))
 
 ## 1 - multadd function
 ##### YOUR CODE HERE #####
-import math
 
 def multadd(a,b,c):
     return a*b+c
-
 
 ## 2 - Equations
 ##### YOUR CODE HERE #####
